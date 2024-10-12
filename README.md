@@ -18,8 +18,9 @@ I'm an undergraduate student with a passion for **web development**. With experi
 
 ### 📫 How to reach me:
 - **Email**: kevinjoshua@example.com
-- **LinkedIn**: [https://www.linkedin.com/in/kevin-joshua-356691288/](#)
-- **Portfolio**: [https://myportfolio-alpha-eosin.vercel.app/](#)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kevin-joshua-356691288/)
+- **Portfolio**: [Portfolio Website](https://myportfolio-alpha-eosin.vercel.app/)
+
 
 ---
 
