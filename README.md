@@ -11,7 +11,7 @@ I'm an undergraduate student with a passion for **web development**. With experi
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Authentication**: JWT, bcrypt
-- **APIs**: OpenAI API, OMDb API, Spotify API
+- **APIs**: OpenAI API, RESTful APIs
 - **Other Tools**: Git, Lucidchart, Marked.js, MongoDB Atlas
 
 ---
