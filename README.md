@@ -14,6 +14,9 @@ I'm an undergraduate student with a passion for **web development**. With experi
 - **APIs**: OpenAI API, RESTful APIs
 - **Other Tools**: Git, Lucidchart, Marked.js, MongoDB Atlas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-joshua&layout=compact&theme=radical)
+
+
 ---
 
 ### 📫 How to reach me:
