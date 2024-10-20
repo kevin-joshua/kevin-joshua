@@ -25,7 +25,7 @@ I'm an undergraduate student with a passion for **web development**. With experi
 ---
 
 ### ⚡ Quick Stats:
-![Kevin Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Kevin Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-joshua&show_icons=true&theme=radical)
 
 
 ---
