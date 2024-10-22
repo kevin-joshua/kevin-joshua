@@ -37,6 +37,4 @@ I'm an undergraduate student with a passion for **web development**. With experi
 
 Feel free to connect with me if you're interested in collaborating on exciting projects or discussing the latest tech innovations!
 
----
 
-You can adjust sections based on your projects and preferred tone. Let me know if you'd like specific updates!
