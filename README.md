@@ -7,12 +7,12 @@ I'm an undergraduate student with a passion for **web development**. With experi
 ---
 
 ### 🛠️ Tech Stack:
-- **Frontend**: React, Tailwind CSS, Bootstrap, HTML, CSS
+- **Frontend**: Next.js, React, Typescript, Tailwind CSS, , HTML, CSS
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Authentication**: JWT, bcrypt
 - **APIs**: OpenAI API, RESTful APIs
-- **Other Tools**: Git, Lucidchart, Marked.js, MongoDB Atlas
+- **Other Tools**: Git, Marked.js, MongoDB Atlas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-joshua&layout=compact&theme=radical)
 
