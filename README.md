@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Kevin Joshua!
 
-I'm an undergraduate student with a passion for **web development**. With experience in building responsive and scalable applications, I enjoy taking on challenges in both the **frontend** and **backend** development spaces.
+
 
 ---
 
