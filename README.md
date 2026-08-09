@@ -48,7 +48,7 @@ Docker · Kubernetes · Git · CI/CD
 ---
 
 ## 🏆 Certifications  
-- AWS Certified Solutions Architect – Associate (SAA-C03)
+- MongoDB Certified Associate Developer - Python
 
 ---
 
